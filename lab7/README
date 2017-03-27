@@ -1,0 +1,9 @@
+LAB 7 running instructions: 
+
+1. chmod u+x lab7.py
+2. ./lab7.py
+3. Should output average image intensity data and daytime determination. 
+	-Then runs 10 iterations of average intensity (number can be changed in code, filter 		works much better with larger iteration numbers.)
+	-Once graph is output (non-filtered data and data filtered with butter filter), exit
+	graph to continue code. 
+	-Then displays 3 most common colors, motion detection, and event detection. 
